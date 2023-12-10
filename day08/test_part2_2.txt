@@ -1,0 +1,12 @@
+LR
+
+A = (B, X)
+B = (X, Z)
+Z = (C, C)
+C = (1D, 1D)
+1D = (2D, 2D)
+2D = (D, D)
+D = (1Z, E)
+1Z = (E, E)
+E = (C, C)
+X = (X, X)
